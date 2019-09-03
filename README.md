@@ -1,5 +1,5 @@
 
-####PROJETO TESTE TECMASTER PYTHON 3.7
+####simple PRoject PYTHON 3.7
 
 ####Para rodar o projeto use os seguintes comandos
 
